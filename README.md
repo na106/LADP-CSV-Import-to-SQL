@@ -1,5 +1,9 @@
-# Steps to import CSV file to SQL
-1. Right click on the database you wish to import CSV file into and select Tasks.
+# Importing CSV File into SQL Database
+   This document explains how to convert/import a CSV file into SQL database as a table.
+## Steps to convert CSV files
+   Below are the steps and pictures to guide you through.
+
+1. Open SQL database. Right click on the database you wish to import CSV file into and select Tasks.
    Then, Select Import Flat File.
    
 ![image](https://github.com/user-attachments/assets/ad53b649-b517-4f38-9236-1984e6e81050)
